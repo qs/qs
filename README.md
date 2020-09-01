@@ -1,9 +1,12 @@
 ### Привет! (Hi) 👋
 
+![cleardusk's github stats](https://github-readme-stats.vercel.app/api?username=qs&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+
 My profiles:
 
  - [LinkedIn](https://www.linkedin.com/in/ivan-savin/)
  - [StackOverflow](https://stackoverflow.com/users/6628583/yann)
+ 
 
 <!--
 **qs/qs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
