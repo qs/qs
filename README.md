@@ -5,7 +5,6 @@
 My profiles:
 
  - [LinkedIn](https://www.linkedin.com/in/ivan-savin/)
- - [StackOverflow](https://stackoverflow.com/users/6628583/yann)
  
 
 <!--
